@@ -25,5 +25,5 @@ while j!=4 :
         print ("1 bull")
         print (str(j)+ " cows")
     numberguess+=1
-print(str(b)+"hello git")
+print(str(b)+"hello gits")
 print ("you win you used  "+str(numberguess))
