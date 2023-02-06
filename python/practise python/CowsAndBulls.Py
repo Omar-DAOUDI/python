@@ -3,7 +3,6 @@ import string
 '''i did it on th pc '''
 sec_num=list("".join(random.choices((string.digits),k=4)))
 print(sec_num)
-
 i =0
 j=0
 b=0
