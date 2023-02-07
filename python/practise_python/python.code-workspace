@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": ".."
+		},
+		{
+			"path": "../../../Desktop/CODING/Tp1"
 		}
 	],
 	"settings": {}
